@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/testvhdl/Tb_clock_divider_isim_beh.exe" -prj "C:/Xilinx/testvhdl/Tb_clock_divider_beh.prj" "work.Tb_clock_divider" 

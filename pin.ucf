@@ -1,0 +1,15 @@
+NET "clock" LOC = P123;
+NET "hsync" LOC = P21;
+NET "vsync" lOC = P23;
+NET "red" LOC = P5;
+NET "green" LOC = P7;
+NET "blue" LOC = P9;
+
+#NET "clear" CLOCK_DEDICATED_ROUTE = FALSE;
+#button
+NET "clear" LOC = P55;
+NET "start_in" LOC = P45; 
+NET "up_in" LOC = P46;
+NET "left_in" LOC = P47;
+NET "right_in" LOC = P48;
+NET "down_in" LOC = P51;
